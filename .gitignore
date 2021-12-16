@@ -1,0 +1,10 @@
+bk/
+data/
+dataset/
+images/
+ipynbs/
+logs/
+models_bk/
+__pycache__/
+.vscode/
+.ipynb_checkpoints/
